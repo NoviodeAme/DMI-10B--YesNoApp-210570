@@ -1,2 +1,16 @@
-# DMI-10B--YesNoApp-210570
-Aplicación realizada en Flutter para Dispositivos Moviles, parte de la Unidad 2 de la Asignatura de Desarrollo Móvil Integral, para comprender el uso de Stateless y Statefull Widgets
+# flutter_application_1
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
