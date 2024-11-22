@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_application_1/domain/entities/message.dart';
+import 'package:flu'
+//import 'package:flutter_application_1/domain/entities/message.dart';
 
 class ChatProvider extends ChangeNotifier {
   List<Message> message = [
