@@ -17,7 +17,7 @@ class ChastScreen extends StatelessWidget {
                 'https://predis.ai/top-instagram-accounts/taylorswift.jpeg'),
           ),
         ),
-        title: Text('Mi amor❤️'),
+        title: Text('Isa Perez❤️'),
         centerTitle: false,
       ),
       body: _ChatView(),
